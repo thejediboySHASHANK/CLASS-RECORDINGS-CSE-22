@@ -1,8 +1,61 @@
 body {
-    background-color: antiquewhite;
-    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F0BB;
+
 }
 h1 {
-    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: maroon;
+    /* background: linear-gradient(90deg, maroon 66%, #FCF8E8 34%); */
+
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#title {
+    background-color: #F5F0BB;
+    /* background: linear-gradient(90deg, #FFA500 66%, #FCF8E8 34%); */
+}
+
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+.relative {
+    font-size: 30px;
+    position: relative;
+    width: 40%;
+    left: 430px;
+    bottom: 590px;
+}
+.image1 {
+    height: 600px;
+    width: 400px;
+    filter: drop-shadow(10px 10px 10px #222);
+}
+
+/* Navigation Bar  */
+
+.navbar {
+    /* padding-bottom: 1rem; */
+}
+
+.navbar-brand {
+    /* color: #FCF8E8; */
+    /* font-family: "Ubuntu"; */
+    font-size: 1.69rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    /* padding: 0 18px; */
+}
+.seperate-hr {
     color: maroon;
 }
