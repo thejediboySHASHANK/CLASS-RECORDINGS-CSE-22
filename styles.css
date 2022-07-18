@@ -34,11 +34,10 @@ body {
     left: 430px;
     bottom: 590px;
 }
-.image1 {
-    height: 62.5rem;
-    width: 56.25rem;
+.img-fluid {
     filter: drop-shadow(10px 10px 10px #222);
 }
+
 
 /* Navigation Bar  */
 
