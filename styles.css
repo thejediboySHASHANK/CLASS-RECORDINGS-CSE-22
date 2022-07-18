@@ -1,6 +1,6 @@
 body {
     /* background-color: #F5F0BB; */
-    background: linear-gradient(90deg, #ffecd2 66%, #fcb69f 34%);
+    background: linear-gradient(to right, #ffecd2 66%, #fcb69f 34%);
 
 }
 h1 {
@@ -19,7 +19,7 @@ body {
 
 #title {
     /* background-color: #F5F0BB; */
-    background: linear-gradient(90deg, #ffecd2 66%, #fcb69f 34%);
+    /* background: linear-gradient(90deg, #ffecd2 66%, #fcb69f 34%); */
     /* background: linear-gradient(90deg, #FFA500 66%, #FCF8E8 34%); */
 }
 
