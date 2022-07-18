@@ -35,8 +35,8 @@ body {
     bottom: 590px;
 }
 .image1 {
-    height: 600px;
-    width: 400px;
+    height: 1000px;
+    width: 900px;
     filter: drop-shadow(10px 10px 10px #222);
 }
 
