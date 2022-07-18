@@ -1,6 +1,6 @@
 body {
     /* background-color: #F5F0BB; */
-    background: linear-gradient(to right, #ffecd2 66%, #fcb69f 34%);
+    background-image : linear-gradient(to right, #ffecd2 66%, #fcb69f 34%);
 
 }
 h1 {
