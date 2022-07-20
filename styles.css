@@ -77,3 +77,8 @@ body {
     /* padding: 0 18px; */
 }
 
+.col-lg-12 {
+    padding-bottom: 0.3rem;
+    display: block;
+}
+
