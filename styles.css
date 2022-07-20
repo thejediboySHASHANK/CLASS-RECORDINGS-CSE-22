@@ -1,16 +1,33 @@
 body {
     /* background-color: #F5F0BB; */
-    background-image : linear-gradient(to right, #ffecd2 66%, #fcb69f 34%);
+    /* background-image : linear-gradient(to right, #ffecd2 66%, #fcb69f 34%); */
+    /* background-color: #2C3639; */
+    /* background-color: rgb(255,255,255); */
+    background: rgb(0, 0, 0);
 
 }
 h1 {
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
-    color: maroon;
+    color: white;
     padding-right: 2rem;
     /* background: linear-gradient(90deg, #ffecd2 66%, #fcb69f 34%); */
 
+}
+h2 {
+    text-align: center;
+    color: whitesmoke;
+}
+h3 {
+    text-align: center;
+    color: whitesmoke;
+}
+.hr-spe {
+    height: 0px;
+    border: none;
+    border-top: 0.69rem solid white;
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -28,7 +45,7 @@ body {
 
 
 .container-fluid {
-    padding: 3% 15%;
+    /* padding: 3% 15%; */
 }
 
 
@@ -59,12 +76,4 @@ body {
 .nav-item {
     /* padding: 0 18px; */
 }
-.seperate-hr {
-    color: maroon;
-}
-.second {
-    margin-top: 20.5rem;
-}
-.third {
-    margin-top: 28.9rem;
-}
+
