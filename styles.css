@@ -8,18 +8,21 @@ h1 {
     font-size: 3rem;
     line-height: 1.5;
     color: maroon;
-    /* background: linear-gradient(90deg, maroon 66%, #FCF8E8 34%); */
+    padding-right: 2rem;
+    /* background: linear-gradient(90deg, #ffecd2 66%, #fcb69f 34%); */
 
 }
 body {
     font-family: 'Montserrat', sans-serif;
 }
-
+/* p {
+    font-size: 3rem;
+} */
 
 
 #title {
     /* background-color: #F5F0BB; */
-    /* background: linear-gradient(90deg, #ffecd2 66%, #fcb69f 34%); */
+    /* background: linear-gradient(90deg #ffecd2 66%, #fcb69f 34%); */
     /* background: linear-gradient(90deg, #FFA500 66%, #FCF8E8 34%); */
 }
 
@@ -40,7 +43,6 @@ body {
     filter: drop-shadow(10px 10px 10px #222);
 }
 
-
 /* Navigation Bar  */
 
 .navbar {
@@ -59,4 +61,10 @@ body {
 }
 .seperate-hr {
     color: maroon;
+}
+.second {
+    margin-top: 20.5rem;
+}
+.third {
+    margin-top: 28.9rem;
 }
